@@ -18,7 +18,7 @@ Functions:
 
   * **`dynarray_set()`** - This function should update (i.e. overwrite) the value of an element at a specified index in a dynamic array.  Again, see the info below on using `void*` values.
 
-## 4. Implement a singly-linked list
+## 2. Implement a singly-linked list
 
 Functions:
 
